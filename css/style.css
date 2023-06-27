@@ -1,0 +1,88 @@
+.container
+{
+	border:1px solid lightgray;
+	gap: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.blue
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#cbdefa;
+	color:#145ddf;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.lightgray
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#e1e3e5;
+	color:#4e4d4c;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.green
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#d1e6dd;
+	color:#06af66;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.red
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#f7d7da;
+	color:#ab433a;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.yellow
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#fff3cd;
+	color:#6d6434;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.skyblue
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#cff4fc;
+	color:#30a8ca;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.white
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#fefefe;
+	color:#8d8282;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
+.gray
+{
+	height:20px;
+	padding:1px 0px 56px 15px;
+	background-color:#d3d3d3;
+	color:#676e67;
+	font-size:22px;
+	font-family: 'Noto Serif Ottoman Siyaq', serif;
+	border-radius:5px;
+}
